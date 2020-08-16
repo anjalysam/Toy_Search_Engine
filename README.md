@@ -1,7 +1,7 @@
 # Toy_Search_Engine
 
 
-###**create a toy search engine using Python. Use 20newsgroups dataset available at http://qwone.com/~jason/20Newsgroups.**
+**create a toy search engine using Python. Use 20newsgroups dataset available at http://qwone.com/~jason/20Newsgroups.**
 
 
 
